@@ -1,3 +1,12 @@
+Update to v0.4.6 - xx/10/17 (for 1.3.1)
+
+Fixes:
+- Changed OTAV 'dockPoint'to dockingNode'
+- Removed erroneous 'internalCameraSwitch' module from OTAV config
+- Included missing .NRM file for inline12Hub
+
+New:
+
 Minor Update to v0.4.5.1 - 05/07/17
 
 Fixes:
