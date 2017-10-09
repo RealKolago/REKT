@@ -6,6 +6,12 @@ Fixes:
 - Included missing .NRM file for inline12Hub
 
 New:
+- revised internal texture for OTAV
+- Heavy Freight pod added
+- New 2.5m 'Inline-6' adapter
+
+Other:
+- Original (RETIRED) CryoPod now removed
 
 Minor Update to v0.4.5.1 - 05/07/17
 
